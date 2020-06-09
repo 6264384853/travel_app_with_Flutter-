@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319554711800",
+    "firebase_url": "https://travelui-6c83f.firebaseio.com",
+    "project_id": "travelui-6c83f",
+    "storage_bucket": "travelui-6c83f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319554711800:android:6b118a34f49fcda4f98b0d",
+        "android_client_info": {
+          "package_name": "com.example.travelappui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319554711800-obtefani6hm8m0gseo5bv2sd1c5s8u1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrLiAMNRQHxm9mZPptoYzZleve-_nMfyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319554711800-obtefani6hm8m0gseo5bv2sd1c5s8u1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
